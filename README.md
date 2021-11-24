@@ -9,7 +9,7 @@ I am a Mechatronics Engineer from Lima, Peru.
 - 👀 I’m interested in creating new devices that taps into cutting edge technologies
 - 📫 How to reach me: jose_antoniotv@hotmail.com
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: I love playing the guitar :)
+- ⚡ Fun fact: I love playing the guitar!
 
 <!---
 josetv91/josetv91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
