@@ -2,7 +2,7 @@
 
 I am a Mechatronics Engineer from Lima, Peru.
 
-- 🔭 I'm currently working @QbAI as a software developer
+- 🔭 I'm currently working @QbAI as a software engineer
 - 🌱 I’m currently learning to write code for drivers
 - 💬 Languages & Technologies: Shell, C, C++, C#, Matlab, Labview, Python, HTML5, Django, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS
 - 📫 CAD softwares: Autocad, Solidworks & Solidworks Electrics, Altium PCB
