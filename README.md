@@ -8,9 +8,8 @@ I am a Mechatronics Engineer from Lima, Peru.
 - 📫 CAD software: Autocad, Solidworks & Solidworks Electrics, Altium PCB
 - 👀 I’m interested in creating new devices that tap into cutting edge technologies
 - 📫 How to reach me: jose_antoniotv@hotmail.com
-- 😄 Pronouns: him/he
 - ⚡ Fun fact: I love playing the guitar!
-- 💬 More of my projects are being uploaded in my spare time
+- 😄 More of my projects are being uploaded in my spare time
 <!---
 josetv91/josetv91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
