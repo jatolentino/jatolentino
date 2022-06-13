@@ -41,8 +41,6 @@
 <br />
 <br />
 
-<br />
-
 ### Technology Stack
 
 [orcid]: https://orcid.org/0000-0002-2350-2113
