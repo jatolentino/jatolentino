@@ -135,6 +135,10 @@
             <span><strong>Flutter</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Unity</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+            </td>
         </tr>
     </tbody>
 </table>
