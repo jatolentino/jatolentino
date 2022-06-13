@@ -53,7 +53,18 @@
 
 [orcid]: https://orcid.org/0000-0002-2350-2113
 
-
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 <center>
 <table width="320px">
     <tbody>
