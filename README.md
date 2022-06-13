@@ -39,10 +39,10 @@
 
 
 <center>
-  <table>
+  <table style="border: 0px">
     <tr>
-       <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,c%2B%2B,cmake,dart,tex,vba,swift,kotlin,common%20workflow%20language,c&custom_title=Web%20Development%20languages" /></td>
-       <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=javascript,python,matlab,html,vba,tex,cmake,shell,css&custom_title=Mobile%20apps%20languages" /></td>
+       <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,c%2B%2B,cmake,dart,tex,vba,swift,kotlin,common%20workflow%20language,c&custom_title=Web%20Development%20languages" /></td>
+       <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=javascript,python,matlab,html,vba,tex,cmake,shell,css&custom_title=Mobile%20apps%20languages" /></td>
     </tr>   
   </table>
 </center>
