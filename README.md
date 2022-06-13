@@ -36,19 +36,15 @@
 
 
 ### Github Stats
-<center>
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=jatolentino&layout=compact"/>
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,vba,cmake,dart,tex&custom_title=AI%20apps%20languages" />
-</center>
-<br/>
+<p align="center">
+	<img width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=jatolentino&layout=compact"/>
+	<img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,c%2B%2B,cmake,dart,tex,vba,swift,kotlin,common%20workflow%20language,c&custom_title=Web%20Development%20languages" />
+</p>
 
-<center>
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,c%2B%2B,cmake,dart,tex,vba,swift,kotlin,common%20workflow%20language,c&custom_title=Web%20Development%20languages" />
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=javascript,python,matlab,html,vba,tex,cmake,shell,css&custom_title=Mobile%20apps%20languages" />
-</center>
-
-<br />
-<br />
+<p align="center">
+	<img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,c%2B%2B,cmake,dart,tex,vba,swift,kotlin,common%20workflow%20language,c&custom_title=Web%20Development%20languages"/>
+	<img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=javascript,python,matlab,html,vba,tex,cmake,shell,css&custom_title=Mobile%20apps%20languages" />
+</p>
 
 ### Technology Stack
 
