@@ -15,8 +15,6 @@
 </ul>
 </details>
 
-<br>
-
 ### Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()
@@ -29,7 +27,7 @@
 ### Github Stats
 <p>
 	<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=jatolentino&layout=compact"/>
-	<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=matlab,c%2B%2B,cmake,dart,tex,vba,swift,kotlin,common%20workflow%20language,c&custom_title=Web%20Development%20languages" />
+	<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatolentino&show_icons=true&locale=en&layout=compact&hide=html,shell,css,swift,kotlin,jinja,objective-c,php,common%20workflow%20language,vba,cmake,dart,tex&custom_title=AI%20apps%20languages" />
 </p>
 
 <p>
