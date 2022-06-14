@@ -1,4 +1,4 @@
-### Hello, I'm Jose Tolentino👋 <div align='right' style="position: relative; top: -100px;">![](https://komarev.com/ghpvc/?username=jatolentino&color=blue)</div>
+### Hello, I'm Jose Tolentino👋 <div align='right'>![](https://komarev.com/ghpvc/?username=jatolentino&color=blue)</div>
 
 ## I am a Mechatronics Engineer based in Lima
 - 🔭 I'm currently working @QbAI as a software engineer
