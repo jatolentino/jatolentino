@@ -3,7 +3,6 @@
 ## I am a Mechatronics Engineer based in Lima
 - 🔭 I'm currently working @QbAI as a software engineer
 
-
 <details>
 <ul>
 <li> 💬 Languages & Technologies: Shell, C, C++, C#, Matlab, Labview, Python, HTML5, Django, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS </li>
