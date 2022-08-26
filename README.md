@@ -6,7 +6,7 @@
 
 <details>
 <ul>
-<li> 💬 Languages & Technologies: Shell, C, C++, C#, Matlab, Labview, Python, HTML5, Django, Ruby on Rails, React, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS </li>
+<li> 💬 Languages & Technologies: Shell, C, C++, C#, Matlab, Labview, Python, HTML5, Django, Ruby on Rails, React, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS, Figma, Adobe XD, Inkscape </li>
 <li> 📫 CAD software: Autocad, Solidworks & Solidworks Electrics, Altium PCB </li>
 <li> 👀 I’m interested in creating new devices that tap into cutting edge technologies </li>
 <li> 📫 How to reach me: jose_antoniotv@hotmail.com </li>
