@@ -1,6 +1,5 @@
 ### Hello, I'm Jose Tolentino👋 <div align='right'>![](https://komarev.com/ghpvc/?username=jatolentino&color=blue)</div>
 
-
 ## I am a Mechatronics Engineer based in Lima
 - 🔭 I'm currently working @QbAI and @Scryper as a software engineer
 <details>
