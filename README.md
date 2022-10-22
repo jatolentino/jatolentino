@@ -4,6 +4,7 @@
 ## I am a Mechatronics Engineer based in Lima
 - 🔭 I'm currently working @QbAI and @Scryper as a software engineer
 <details>
+
 <ul>
 <li> 💬 Languages & Technologies: Shell, C, C++, C#, Matlab, Labview, Python, HTML5, Django, Ruby on Rails, React, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS, Figma, Adobe XD, Inkscape </li>
 <li> 📫 CAD software: Autocad, Solidworks & Solidworks Electrics, Altium PCB </li>
