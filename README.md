@@ -18,7 +18,7 @@
 ### Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]()
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-tolentino-0442a8247/)
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />]()
 [<img align="left" alt="stackoverflow" src="https://github.com/jatolentino/jatolentino/blob/main/img/ORCID_logo.svg" />](https://orcid.org/0000-0002-2350-2113)
 <!-- 
