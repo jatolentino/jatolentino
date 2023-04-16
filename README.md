@@ -1,7 +1,7 @@
 ### Hello, I'm Jose Tolentino👋 <div align='right'>![](https://komarev.com/ghpvc/?username=jatolentino&color=blue)</div>
 
 ## I am a Software Engineer based in Peru
-- 🔭 I'm currently working @Scrait as a Software Engineer
+- 🔭 I'm currently working @Scrait
 
 
 <details>	
