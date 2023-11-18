@@ -2,16 +2,13 @@
 
 ## I am a Software Engineer
 - 🔭 I'm currently working @Scryper
-
-
- 
-<li> 💬 Languages & Technologies: Shell, C, C++, Java, C#, Matlab, Labview, Python, HTML5, Django, Ruby on Rails, React, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS, Figma, Adobe XD, Inkscape </li>
-<li> 📫 CAD software: Autocad, Solidworks & Solidworks Electrics, Altium PCB </li>
-<li> 👀 I’m interested in creating new devices that tap into cutting edge technologies </li>
-<li> 📫 How to reach me: jose_antoniotv@hotmail.com </li>
-<li> ⚡ Fun fact: I love playing the guitar! </li>
-<li> 😄 More of my projects are being uploaded in my spare time </li>
-<li> 🌱 I’m currently learning to write code for drivers </li>
+- 💬 Languages & Technologies: Shell, C, C++, Java, C#, Matlab, Labview, Python, HTML5, Django, Ruby on Rails, React, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS, Figma, Adobe XD, Inkscape
+- 📫 CAD software: Autocad, Solidworks & Solidworks Electrics, Altium PCB
+- 👀 I’m interested in creating new devices that tap into cutting edge technologies
+- 📫 How to reach me: jose_antoniotv@hotmail.com
+- ⚡ Fun fact: I love playing the guitar!
+- 😄 More of my projects are being uploaded in my spare time
+- 🌱 I’m currently learning to write code for drivers
 
 
 
