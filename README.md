@@ -3,7 +3,6 @@
 ## I am a Software Engineer
 - 🔭 I'm currently working @Scryper
 <details>
-<ul>
 
  
 <li> 💬 Languages & Technologies: Shell, C, C++, Java, C#, Matlab, Labview, Python, HTML5, Django, Ruby on Rails, React, PHP, PostgreSQL, CSS, Bootstrap, GNS3, Ansible, Jinja, Podman-containers, JavaScript, Android Studio, ROS, Unity, RTOS, Figma, Adobe XD, Inkscape </li>
@@ -13,7 +12,7 @@
 <li> ⚡ Fun fact: I love playing the guitar! </li>
 <li> 😄 More of my projects are being uploaded in my spare time </li>
 <li> 🌱 I’m currently learning to write code for drivers </li>
-</ul>
+
 </details>
 
 
