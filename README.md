@@ -61,99 +61,190 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Matlab</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+            <span><strong>Html</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Bash</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Latex</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Spring</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Express</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Django</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Go</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
             </td>
             <td width="80px" align="center">
+            <span><strong>Elixir</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Phoenix</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg">
+            </td>
+            <td width="80px" align="center">
             <span><strong>Rust</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-        <td width="80px" align="center">
-            <span><strong>Latex</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>&nbsp&nbsp;&nbsp;C&nbsp&nbsp;&nbsp;</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>&nbsp;&nbsp;C#&nbsp;&nbsp;</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>&nbsp;&nbsp;C++&nbsp;</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Next</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Bash</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>PostgreSQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Dart</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Swift</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Kotlin</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Flutter</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Unity</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-            </td>
-            <td width="80px" align="center">
+        </tr>
+        <tr valign="top">
+        <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+        </td>
+        <td width="80px" align="center">
+            <span><strong>Next</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+        </td>
+        <td width="80px" align="center">
             <span><strong>SaSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-            </td>
-            <td width="80px" align="center">
+        </td>
+        <td width="80px" align="center">
             <span><strong>Tailwind</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+        </td>
+        <td width="80px" align="center">
+            <span><strong>Postgres</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+        </td>
+        <td width="80px" align="center">
+            <span><strong>GraphQL</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+        </td>
+        <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+            </td>
+        <td width="80px" align="center">
+            <span><strong>Firebase</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
+        </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jira</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Bitbucket</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Prometheus</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/docker.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Postman</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Terraform</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Kubernetes</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>&nbsp&nbsp;&nbsp;C&nbsp&nbsp;&nbsp;</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Matlab</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>&nbsp;&nbsp;C++&nbsp;</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>            
+            <td width="80px" align="center">
+            <span><strong>LabView</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/labview.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Gns3</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/gns3.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Inventor</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/inventor.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Solidworks</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/solidworks.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Altium</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/altium.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Penpot</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/penpot.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Inkscape</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Gimp</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Kdenlive</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/kdenlive.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Blender</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Codium</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/jatolentino/jatolentino/main/assets/codium.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Vim</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
             </td>
         </tr>
     </tbody>
@@ -162,6 +253,3 @@
 
 ##  📫 My contributions so far!
 ![](./profile-3d-contrib/profile-season-animate.svg)
-
-
-
