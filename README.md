@@ -129,7 +129,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
         </td>
         <td width="80px" align="center">
-            <span><strong>Postgres</strong></span><br>
+            <span><strong>PostgreSQL</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
         </td>
         <td width="80px" align="center">
