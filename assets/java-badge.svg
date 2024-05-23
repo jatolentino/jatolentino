@@ -6,7 +6,7 @@
    aria-label="Jest"
    version="1.1"
    id="svg9032"
-   sodipodi:docname="Jest-C21325.svg"
+   sodipodi:docname="java-badge.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="12.285714"
-     inkscape:cx="16.563953"
-     inkscape:cy="4.3953488"
+     inkscape:cx="23.441861"
+     inkscape:cy="3.5813954"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -61,26 +61,26 @@
   <g
      clip-path="url(#r)"
      id="g9022"
-     style="fill:#cccccc">
+     style="fill:#b3b3b3">
     <rect
        width="0"
        height="20"
        fill="#555"
        id="rect9016"
-       style="fill:#cccccc" />
+       style="fill:#b3b3b3" />
     <rect
        x="0"
        width="49"
        height="20"
        fill="#c21325"
        id="rect9018"
-       style="fill:#cccccc" />
+       style="fill:#b3b3b3" />
     <rect
        width="49"
        height="20"
        fill="url(#s)"
        id="rect9020"
-       style="fill:#cccccc" />
+       style="fill:#b3b3b3" />
   </g>
   <text
      aria-hidden="true"
