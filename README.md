@@ -1,7 +1,7 @@
 ### Hello, I'm Jose Tolentino👋 <div align='right'>![](https://komarev.com/ghpvc/?username=jatolentino&color=blue)</div>
 
 <a href="https://joseatolentino.com" target="_blank">
-<img src="./asset/personal-website.svg"/>
+<img src="./assets/personal-website.svg"/>
 </a>
 
 ## I am a Software Engineer 
